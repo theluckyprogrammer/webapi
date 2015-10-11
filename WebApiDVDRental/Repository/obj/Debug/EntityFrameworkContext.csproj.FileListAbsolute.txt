@@ -1,0 +1,16 @@
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Repository.dll.config
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Repository.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Repository.pdb
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Contract.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework6.Npgsql.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Npgsql.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Contract.pdb
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework.xml
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\EntityFramework6.Npgsql.xml
+E:\Projekty\Blog\WebApiDVDRental\Repository\bin\Debug\Npgsql.xml
+E:\Projekty\Blog\WebApiDVDRental\Repository\obj\Debug\EntityFrameworkContext.csprojResolveAssemblyReference.cache
+E:\Projekty\Blog\WebApiDVDRental\Repository\obj\Debug\Repository.dll
+E:\Projekty\Blog\WebApiDVDRental\Repository\obj\Debug\Repository.pdb

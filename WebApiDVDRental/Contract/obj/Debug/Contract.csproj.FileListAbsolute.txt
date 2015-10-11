@@ -1,0 +1,10 @@
+E:\Projekty\Blog\WebApiDVDRental\Contract\bin\Debug\Contract.dll
+E:\Projekty\Blog\WebApiDVDRental\Contract\bin\Debug\Contract.pdb
+E:\Projekty\Blog\WebApiDVDRental\Contract\obj\Debug\Contract.dll
+E:\Projekty\Blog\WebApiDVDRental\Contract\obj\Debug\Contract.pdb
+E:\Projekty\Blog\WebApiDVDRental\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+E:\GIT\WebApiDVDRental\Contract\bin\Debug\Contract.dll
+E:\GIT\WebApiDVDRental\Contract\bin\Debug\Contract.pdb
+E:\GIT\WebApiDVDRental\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+E:\GIT\WebApiDVDRental\Contract\obj\Debug\Contract.dll
+E:\GIT\WebApiDVDRental\Contract\obj\Debug\Contract.pdb
