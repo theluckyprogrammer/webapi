@@ -2,5 +2,6 @@
 Hi!
 Please look to Wiki!
 
-Best regaqrds,
+Best regards,
+
 Tom
